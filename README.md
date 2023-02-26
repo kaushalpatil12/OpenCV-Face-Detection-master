@@ -3,4 +3,4 @@ Tried to Implement the OpenCV, for detection of Face and Eyes from an image, giv
 
 ## Screenshot
 
-![alt text](https://github.com/amark720/OpenCV-Face-Detetection/blob/master/Output.PNG?raw=true)
+![alt text](https://github.com/kupatil/OpenCV-Face-Detetection/Output.png)
